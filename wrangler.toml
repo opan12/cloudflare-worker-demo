@@ -1,0 +1,6 @@
+name = "ai-chat-demo"
+main = "src/index.js"
+compatibility_date = "2026-05-09"
+
+[ai]
+binding = "AI" # Bu satır çok önemli
